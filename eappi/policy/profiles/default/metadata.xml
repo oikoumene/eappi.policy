@@ -2,6 +2,17 @@
 <metadata>
     <version>1</version>
     <dependencies>
-        <dependency>profile-plone.app.dexterity:default</dependency>
+      <dependency>profile-plone.app.dexterity:default</dependency>
+      <dependency>profile-eappi.theme:default</dependency>
+      <dependency>profile-wcc.homepage:default</dependency>
+      <dependency>profile-wcc.carousel:default</dependency>
+      <dependency>profile-wcc.common:default</dependency>
+      <dependency>profile-Products.ContentWellPortlets:default</dependency>
+      <dependency>profile-collective.socialbar:default</dependency>
+      <dependency>profile-Products.RedirectionTool:default</dependency>
+      <dependency>profile-wcc.featurable:default</dependency>
+      <dependency>profile-collective.carousel:default</dependency>
+      <dependency>profile-collective.portlet.collectionmultiview:default</dependency>
+      <dependency>profile-collective.captchacontactinfo:default</dependency>
     </dependencies>
 </metadata>
