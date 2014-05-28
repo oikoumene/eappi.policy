@@ -45,6 +45,7 @@ setup(name='eappi.policy',
           'collective.portlet.collectionmultiview',
           'collective.documentviewer',
           'collective.captchacontactinfo',
+          'ftw.blog',
           # -*- Extra requirements: -*-
       ],
       extras_require={

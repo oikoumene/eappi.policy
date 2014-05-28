@@ -14,5 +14,6 @@
       <dependency>profile-collective.carousel:default</dependency>
       <dependency>profile-collective.portlet.collectionmultiview:default</dependency>
       <dependency>profile-collective.captchacontactinfo:default</dependency>
+      <dependency>profile-ftw.blog:default</dependency>
     </dependencies>
 </metadata>
