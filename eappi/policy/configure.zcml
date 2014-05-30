@@ -14,5 +14,9 @@
     <i18n:registerTranslations directory="locales" />
 
     <!-- -*- extra stuff goes here -*- -->
+    <class class="ftw.blog.content.blogentry.BlogEntry">
+       <implements interface="collective.sliderfields.interfaces.ISliderFieldsEnabled"/>
+   </class>
+
 
 </configure>
