@@ -44,6 +44,9 @@ setup(name='eappi.policy',
           'collective.documentviewer',
           'collective.captchacontactinfo',
           'ftw.blog',
+          'collective.js.unslider',
+          'collective.sliderfields',
+          'wcc.multilingual',
           # -*- Extra requirements: -*-
       ],
       extras_require={

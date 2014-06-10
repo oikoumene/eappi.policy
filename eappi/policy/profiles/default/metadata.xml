@@ -13,5 +13,8 @@
       <dependency>profile-collective.portlet.collectionmultiview:default</dependency>
       <dependency>profile-collective.captchacontactinfo:default</dependency>
       <dependency>profile-ftw.blog:default</dependency>
+      <dependency>profile-collective.sliderfields:default</dependency>
+      <dependency>profile-collective.js.unslider:default</dependency>
+      <dependency>profile-wcc.multilingual:default</dependency>
     </dependencies>
 </metadata>
