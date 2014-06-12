@@ -47,6 +47,7 @@ setup(name='eappi.policy',
           'collective.js.unslider',
           'collective.sliderfields',
           'wcc.multilingual',
+          'eappi.map',
           # -*- Extra requirements: -*-
       ],
       extras_require={
