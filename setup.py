@@ -50,6 +50,11 @@ setup(name='eappi.policy',
           'eappi.map',
           'wcc.rawhtml',
           'collective.plonetruegallery',
+          'redturtle.video',
+          'collective.rtvideo.youtube',
+          'collective.rtvideo.vimeo',
+          'wcc.video',
+          'wcc.videolink',
           # -*- Extra requirements: -*-
       ],
       extras_require={

@@ -19,5 +19,8 @@
       <dependency>profile-eappi.map:default</dependency>
       <dependency>profile-wcc.rawhtml:default</dependency>
       <dependency>profile-collective.plonetruegallery:default</dependency>
+      <dependency>profile-redturtle.video:default</dependency>
+      <dependency>profile-wcc.videolink:default</dependency>
+      <dependency>profile-wcc.video:default</dependency>
     </dependencies>
 </metadata>
