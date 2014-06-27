@@ -49,6 +49,7 @@ setup(name='eappi.policy',
           'wcc.multilingual',
           'eappi.map',
           'wcc.rawhtml',
+          'collective.plonetruegallery',
           # -*- Extra requirements: -*-
       ],
       extras_require={

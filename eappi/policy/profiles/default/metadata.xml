@@ -18,5 +18,6 @@
       <dependency>profile-wcc.multilingual:default</dependency>
       <dependency>profile-eappi.map:default</dependency>
       <dependency>profile-wcc.rawhtml:default</dependency>
+      <dependency>profile-collective.plonetruegallery:default</dependency>
     </dependencies>
 </metadata>
