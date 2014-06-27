@@ -17,5 +17,6 @@
       <dependency>profile-collective.js.unslider:default</dependency>
       <dependency>profile-wcc.multilingual:default</dependency>
       <dependency>profile-eappi.map:default</dependency>
+      <dependency>profile-wcc.rawhtml:default</dependency>
     </dependencies>
 </metadata>

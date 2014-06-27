@@ -48,6 +48,7 @@ setup(name='eappi.policy',
           'collective.sliderfields',
           'wcc.multilingual',
           'eappi.map',
+          'wcc.rawhtml',
           # -*- Extra requirements: -*-
       ],
       extras_require={
