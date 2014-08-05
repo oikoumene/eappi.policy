@@ -22,5 +22,6 @@
       <dependency>profile-redturtle.video:default</dependency>
       <dependency>profile-wcc.videolink:default</dependency>
       <dependency>profile-wcc.video:default</dependency>
+      <dependency>profile-Products.PloneFormGen:default</dependency>
     </dependencies>
 </metadata>

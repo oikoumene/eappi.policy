@@ -55,6 +55,7 @@ setup(name='eappi.policy',
           'collective.rtvideo.vimeo',
           'wcc.video',
           'wcc.videolink',
+          'Products.PloneFormGen',
           # -*- Extra requirements: -*-
       ],
       extras_require={
