@@ -56,6 +56,7 @@ setup(name='eappi.policy',
           'wcc.video',
           'wcc.videolink',
           'Products.PloneFormGen',
+          'eappi.customrss',
           # -*- Extra requirements: -*-
       ],
       extras_require={

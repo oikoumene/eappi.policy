@@ -23,5 +23,6 @@
       <dependency>profile-wcc.videolink:default</dependency>
       <dependency>profile-wcc.video:default</dependency>
       <dependency>profile-Products.PloneFormGen:default</dependency>
+      <dependency>profile-eappi.customrss:default</dependency>
     </dependencies>
 </metadata>
